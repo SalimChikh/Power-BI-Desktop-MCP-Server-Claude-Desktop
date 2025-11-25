@@ -12,10 +12,6 @@ Le package `.mcpb` est la manière la plus simple d’installer l’extension : 
 `powerbi-desktop-mcp-2.0.10.mcpb`  
 Inclut tous les outils : création, mise à jour, suppression.
 
-**Version en lecture seule :**  
-`powerbi-desktop-mcp-readonly-2.0.10.mcpb`  
-Permet uniquement la consultation et l’analyse.
-
 ---
 
 ## **2. Installation de l’extension**
