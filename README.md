@@ -44,13 +44,6 @@ Un indicateur **MCP** apparaîtra en bas à droite de la zone de saisie lorsque 
 
 ---
 
-## **Développement**
-
-Développé par : **Maxim Anatsko**  
-Site web : https://maxanatsko.com
-
----
-
 ## Getting Started
 
 ### 1. Démarrer Power BI Desktop
@@ -68,3 +61,10 @@ Si vous utilisez **Claude Desktop**, celui-ci ainsi que le **Power BI MCP Server
 
 Cet outil est un projet indépendant, développé par la communauté.  
 Il **n’est pas affilié, approuvé ou lié de quelque manière que ce soit à Microsoft Corporation**.
+
+---
+
+## **Développement**
+
+Développé par : **Maxim Anatsko**  
+Site web : https://maxanatsko.com
