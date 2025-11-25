@@ -6,6 +6,17 @@ Le package `.mcpb` est la manière la plus simple d’installer l’extension : 
 
 ---
 
+## **Prérequis**
+
+Pour utiliser cette extension, vous devez avoir installé :
+
+- **Claude Desktop** (obligatoire)  
+  Téléchargement : https://claude.ai/download
+
+Assurez-vous que Claude Desktop est correctement installé et lancé au moins une fois avant d’ajouter l’extension MCP.
+
+---
+
 ## **1. Téléchargement du package**
 
 **Version complète :**  
@@ -60,7 +71,7 @@ Si vous utilisez **Claude Desktop**, celui-ci ainsi que le **Power BI MCP Server
 ## **Note importante**
 
 Cet outil est un projet indépendant, développé par la communauté.  
-Il **n’est pas affilié, approuvé ou lié de quelque manière que ce soit à Microsoft Corporation**.
+Il **n’est pas affilié, approuvé ou lié de quelconque manière à Microsoft Corporation**.
 
 ---
 
