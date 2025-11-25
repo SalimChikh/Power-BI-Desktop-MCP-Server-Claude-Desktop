@@ -51,6 +51,19 @@ Site web : https://maxanatsko.com
 
 ---
 
+## Getting Started
+
+### 1. Démarrer Power BI Desktop
+Ouvrez **Power BI Desktop** et chargez un fichier `.pbix` sur lequel vous souhaitez travailler.  
+Le serveur MCP détectera automatiquement les instances de Power BI en cours d’exécution.
+
+### 2. Lancer votre assistant IA
+Démarrez votre assistant IA préféré.
+
+Si vous utilisez **Claude Desktop**, celui-ci ainsi que le **Power BI MCP Server** se lanceront automatiquement en arrière-plan une fois installés.
+
+---
+
 ## **Note importante**
 
 Cet outil est un projet indépendant, développé par la communauté.  
